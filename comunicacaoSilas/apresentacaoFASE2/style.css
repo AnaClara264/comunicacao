@@ -1,0 +1,63 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+
+#all{
+	height: 100%;
+	width: 100%;
+	background-image: url("./conversation/back.png");
+	background-size: 113%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.button{
+	height: 10%;
+	text-align: center;
+}
+.button button{
+	height: 30px;
+	width: 100px;
+}
+
+.setas{
+	height: 10%;
+	text-align: center;
+}
+#arrows{
+	width: 640px;
+}
+
+
+.main {
+    min-height: 79%; 
+    position: relative; 
+    width: 100%;
+}
+#footer{    
+    position: absolute;
+    bottom: 0; 
+    width: 100%;
+    text-align: center;
+}
+#img{
+	height: 160px;
+	width: 480px;
+}
+
+.chefao {
+    min-height: 77%; 
+    position: absolute; 
+    width: 100%;
+}
+#person{    
+    position: absolute;
+    bottom: 0; 
+    width: 100%;
+    text-align: left;
+}
+#circe{
+	height: 480px;
+	width: 480px;
+}
